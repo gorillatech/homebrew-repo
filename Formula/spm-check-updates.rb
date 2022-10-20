@@ -2,7 +2,7 @@ class SpmCheckUpdates < Formula
   desc "Check for SPM updates"
   homepage "https://github.com/gorillatech/spm-check-updates"
   url "https://github.com/gorillatech/spm-check-updates/archive/refs/tags/0.1.1.zip"
-  sha256 "e070c88bc52178d803f46604d9c28ddaf6f89032c6037a5528c0976b9d8e8321"
+  sha256 "37d1905e1380239d82cc64ef3925862516b52b3c39f2a773e2406fc502103f4f"
   license "MIT"
   
   def install
